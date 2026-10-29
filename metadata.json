@@ -1,0 +1,8 @@
+{
+  "name": "PocketPilot AI",
+  "description": "Your money. Your goals. Your copilot. AI-powered personal finance companion for Indian college students to track expenses, manage allowances, and achieve savings goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
